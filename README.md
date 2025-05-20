@@ -41,10 +41,15 @@
 ## 🧪 Requirements
 
 - Python 3.x
+  
 - `colorama` Python package:
   
   ```bash
   pip3 install colorama
   ```
-
+- To run the program:
+- 
+  ```bash
+  python3.x python_linux_management_console.py
+  ```
 ------------------------------------------------------------------------------------
